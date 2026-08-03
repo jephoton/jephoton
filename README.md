@@ -48,6 +48,6 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jettan17&theme=tokyonight&hide_border=true)](https://github.com/Jettan17)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jephoton&theme=tokyonight&hide_border=true)](https://github.com/jephoton)
 
 </div>
