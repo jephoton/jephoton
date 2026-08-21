@@ -23,7 +23,7 @@
 
 | project                                                                | description                                                                                                                              | stack                                                 |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| [**KubeSeer**](https://github.com/jephoton/kubeseer-observability-gui) | High-performance Kubernetes observability GUI unifying topology, logs, metrics, traces, and automated troubleshooting in a single binary | Rust · Axum · Tokio · React · TypeScript · Kubernetes |
+| [**KubeSeer**](https://github.com/jephoton/kubeseer-observability-gui) | High-performance Kubernetes observability GUI unifying topology, logs, metrics, traces, and automated troubleshooting in a single binary <br> 🏅 Winner (Most Ambitious Build) of AWS Kiro Buildfest 2026| Rust · Axum · Tokio · React · TypeScript · Kubernetes |
 | [**Accrux**](https://github.com/jephoton/accrux-hobby-tracker)         | Celestial-themed hobby tracker with visual skill trees, hierarchical tasks, achievements, realtime sync, and customizable star systems   | Next.js · React · TypeScript · Supabase · Zustand     |
 | [**JetFlux**](https://github.com/jephoton/jetflux-cc-sdk)              | Structured Claude Code development environment with specialized agents, slash commands, verification workflows, and continuous learning  | Claude Code · Markdown · MCP · Developer Tooling      |
 
